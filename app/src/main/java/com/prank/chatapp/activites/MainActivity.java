@@ -1,8 +1,10 @@
-package com.prank.chatapp;
+package com.prank.chatapp.activites;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.prank.chatapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
